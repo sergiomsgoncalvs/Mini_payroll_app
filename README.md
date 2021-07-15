@@ -24,6 +24,7 @@ Na segunda secção é apresentada uma GridView que mostra os dados presentes na
 ![Image of Yaktocat](https://github.com/sergiomsgoncalvs/mini_payroll_app/blob/main/Ficha%20funcionario.PNG)
 
 
+O ecrã “Processamento”:
 
 Após os dados obrigatórios serem inseridos pelo utilizador este deve de clicar no botão “Processar”, este botão vai recolher das TextBoxs os dados necessário para os cálculos para obter o salário líquido. Foram criadas variáveis na função do botão “Processar” para efetuar os cálculos de uma forma mais simplificada, devolvendo-os para outros campos presentes na GroupBox.
 
