@@ -1,10 +1,12 @@
 # mini_payroll_app
 
-O desafio : 
-- Criar, vizualizar e remover fichas de funcionário;
-- Processar salário com informação das fichas de funcionário previamente criadas;
-- Bases de dados em SQL
+O programa desenvolvido pelo grupo de trabalho tem como finalidade o processamento de salários de uma empresa com várias delegações em diversos pontos do País. A aplicação Estes tem os seguintes ecrãs:
 
+-Ficha de Funcionário, permite criar, eliminar e consultar os funcionários de cada delegação;
+
+-Processamento de Salários, permite executar o cálculo do salário de cada trabalhador por mês;
+
+-Pesquisa, permite ao utilizador visualizar os dados do processamento de salário filtrando por mês ou por trabalhador;
             
 
 
