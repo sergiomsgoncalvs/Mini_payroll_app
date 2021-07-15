@@ -1,5 +1,9 @@
 # mini_payroll_app
 
+--Windows Forms
+--C#
+--SQL
+
 O programa desenvolvido pelo grupo de trabalho tem como finalidade o processamento de salários de uma empresa com várias delegações em diversos pontos do País. A aplicação Estes tem os seguintes ecrãs:
 
 -Ficha de Funcionário, permite criar, eliminar e consultar os funcionários de cada delegação;
